@@ -1,0 +1,9 @@
+Albert Almora,CF,545,174
+Javier Baez,1B,533,127
+Kris Bryant,C,535,176
+Yu Darvish,RF,485,174
+Luke Farrel,SS,532,125
+Kyle Hendricks,3B,477,122
+Jason Heyward,2B,475,138
+Ben Zobrist,LF,215,58
+Addison Russell,P,103,21
